@@ -62,10 +62,10 @@ The dataset was introduced in a 1998 paper by Yeh in *Cement and Concrete Resear
 
 ## How to run
 
-1. Download `Concrete_Data.xls` from the UCI link above (or use the copy in `/data`)
+1. Use `Concrete_Data.xls` in this repo (or download it from the UCI link above)
 2. Upload it to a Unity Catalog volume in Databricks, or update the file path in the first code cell
 3. Import `concrete_strength_project.ipynb` into Databricks and run all cells
-
+   
 ## Author
 
 **Doubra Daunemigha** · [LinkedIn](https://www.linkedin.com/in/doubra-daunemigha) · d.daunemigha.it@gmail.com
