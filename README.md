@@ -54,9 +54,11 @@ Spark returned rows in a different order than pandas, so I added a permanent `sa
 
 ## Data
 
-Concrete Compressive Strength dataset by I. C. Yeh, from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength) (CC BY 4.0). 1,030 mixes, 8 inputs (7 ingredients in kg per m³ plus age in days), 1 target (strength in MPa).
+Concrete Compressive Strength dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength), licensed under CC BY 4.0. 1,030 mixes, 8 inputs (7 ingredients in kg per m³ plus age in days), 1 target (strength in MPa), no missing values.
 
-Original paper: Yeh, I. C. (1998). Modeling of strength of high performance concrete using artificial neural networks. *Cement and Concrete Research*, 28(12), 1797 to 1808.
+Citation: Yeh, I. (1998). Concrete Compressive Strength [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5PK67
+
+The dataset was introduced in a 1998 paper by Yeh in *Cement and Concrete Research*, Vol. 28, No. 12.
 
 ## How to run
 
